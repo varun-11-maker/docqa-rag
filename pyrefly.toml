@@ -1,0 +1,2 @@
+# Point the IDE type checker at the project venv (Python 3.14 + google-genai).
+python-interpreter-path = "./.venv/bin/python"
